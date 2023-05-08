@@ -126,7 +126,13 @@ Each record of fact table contains metrics of a stock at the end of the day and 
   - Volume
   - Total trading value
 
-After doing all these steps, here is the final data model
-### 2. Implement ETL process
+After doing all these steps, here is the entire data model
 
-## III. 
+![img_8.png](images/img_8.png)
+
+### 2. Implement ETL process
+In 2 previous weeks, I have just code for crawling stocks price data at SSI iBoard (https://iboard.ssi.com.vn/) via API and getting listed companpies infomation.
+(update later)
+## III. Reference
+1. Data Warehouse course on Data Camp: https://app.datacamp.com/learn/courses/introduction-to-data-warehousing
+2. Data Modeling for Stock Market paper: https://www.researchgate.net/publication/326701422_A_Data_Warehouse_Based_Modelling_Technique_for_Stock_Market_Analysis
