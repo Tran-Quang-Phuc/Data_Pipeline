@@ -1,0 +1,4124 @@
+{
+    "data": [
+        {
+            "Ma CP": "AAA",
+            "Gia dong cua": 11450,
+            "Khoi luong": 5323100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 11150,
+            "Cao_nhat": 11600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "AAM",
+            "Gia dong cua": 10850,
+            "Khoi luong": 7500,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-1.8",
+            "Thap_nhat": 10700,
+            "Cao_nhat": 11000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "AAT",
+            "Gia dong cua": 6300,
+            "Khoi luong": 1028200,
+            "Thay doi": "140.00",
+            "Thay doi %": "2.2",
+            "Thap_nhat": 6160,
+            "Cao_nhat": 6400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ABR",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ABS",
+            "Gia dong cua": 6840,
+            "Khoi luong": 2472900,
+            "Thay doi": "180.00",
+            "Thay doi %": "2.6",
+            "Thap_nhat": 6740,
+            "Cao_nhat": 7060,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ABT",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ACB",
+            "Gia dong cua": 21450,
+            "Khoi luong": 7464100,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 21300,
+            "Cao_nhat": 21650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ACC",
+            "Gia dong cua": 13700,
+            "Khoi luong": 64400,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 13600,
+            "Cao_nhat": 13800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ACG",
+            "Gia dong cua": 39250,
+            "Khoi luong": 7000,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 39250,
+            "Cao_nhat": 39950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ACL",
+            "Gia dong cua": 13600,
+            "Khoi luong": 107000,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 13250,
+            "Cao_nhat": 13650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ADG",
+            "Gia dong cua": 37000,
+            "Khoi luong": 8500,
+            "Thay doi": "2050.00",
+            "Thay doi %": "5.9",
+            "Thap_nhat": 34500,
+            "Cao_nhat": 37050,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ADS",
+            "Gia dong cua": 15300,
+            "Khoi luong": 747200,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 14650,
+            "Cao_nhat": 15400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "AGG",
+            "Gia dong cua": 27500,
+            "Khoi luong": 87100,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 27450,
+            "Cao_nhat": 27550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "AGM",
+            "Gia dong cua": 5740,
+            "Khoi luong": 469700,
+            "Thay doi": "-430.00",
+            "Thay doi %": "-7.0",
+            "Thap_nhat": 5730,
+            "Cao_nhat": 6160,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "AGR",
+            "Gia dong cua": 12700,
+            "Khoi luong": 2214800,
+            "Thay doi": "250.00",
+            "Thay doi %": "2.0",
+            "Thap_nhat": 12100,
+            "Cao_nhat": 12800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "AMD",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ANV",
+            "Gia dong cua": 35100,
+            "Khoi luong": 1533000,
+            "Thay doi": "250.00",
+            "Thay doi %": "0.7",
+            "Thap_nhat": 34550,
+            "Cao_nhat": 35550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "APC",
+            "Gia dong cua": 12900,
+            "Khoi luong": 2800,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 12600,
+            "Cao_nhat": 12900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "APG",
+            "Gia dong cua": 7580,
+            "Khoi luong": 1031500,
+            "Thay doi": "30.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 7450,
+            "Cao_nhat": 7650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "APH",
+            "Gia dong cua": 9030,
+            "Khoi luong": 1508300,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-1.1",
+            "Thap_nhat": 8910,
+            "Cao_nhat": 9160,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ASG",
+            "Gia dong cua": 22700,
+            "Khoi luong": 7100,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-0.7",
+            "Thap_nhat": 22300,
+            "Cao_nhat": 22850,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ASM",
+            "Gia dong cua": 10600,
+            "Khoi luong": 10880300,
+            "Thay doi": "200.00",
+            "Thay doi %": "1.9",
+            "Thap_nhat": 10450,
+            "Cao_nhat": 10900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ASP",
+            "Gia dong cua": 6080,
+            "Khoi luong": 143200,
+            "Thay doi": "-90.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 6000,
+            "Cao_nhat": 6360,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "AST",
+            "Gia dong cua": 60000,
+            "Khoi luong": 20900,
+            "Thay doi": "300.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 59700,
+            "Cao_nhat": 60100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BAF",
+            "Gia dong cua": 23500,
+            "Khoi luong": 3328100,
+            "Thay doi": "-700.00",
+            "Thay doi %": "-2.9",
+            "Thap_nhat": 23000,
+            "Cao_nhat": 24000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BBC",
+            "Gia dong cua": 56100,
+            "Khoi luong": 800,
+            "Thay doi": "-1400.00",
+            "Thay doi %": "-2.4",
+            "Thap_nhat": 55900,
+            "Cao_nhat": 57800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BCE",
+            "Gia dong cua": 6460,
+            "Khoi luong": 165700,
+            "Thay doi": "-10.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 6460,
+            "Cao_nhat": 6610,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BCG",
+            "Gia dong cua": 10500,
+            "Khoi luong": 10101200,
+            "Thay doi": "100.00",
+            "Thay doi %": "1.0",
+            "Thap_nhat": 10100,
+            "Cao_nhat": 10650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BCM",
+            "Gia dong cua": 79900,
+            "Khoi luong": 468500,
+            "Thay doi": "700.00",
+            "Thay doi %": "0.9",
+            "Thap_nhat": 78600,
+            "Cao_nhat": 80200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BFC",
+            "Gia dong cua": 18250,
+            "Khoi luong": 189600,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 18200,
+            "Cao_nhat": 18500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BHN",
+            "Gia dong cua": 43100,
+            "Khoi luong": 2500,
+            "Thay doi": "-500.00",
+            "Thay doi %": "-1.1",
+            "Thap_nhat": 43100,
+            "Cao_nhat": 43700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BIC",
+            "Gia dong cua": 28150,
+            "Khoi luong": 51800,
+            "Thay doi": "200.00",
+            "Thay doi %": "0.7",
+            "Thap_nhat": 27700,
+            "Cao_nhat": 28400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BID",
+            "Gia dong cua": 43450,
+            "Khoi luong": 1289600,
+            "Thay doi": "-250.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 43100,
+            "Cao_nhat": 44050,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BKG",
+            "Gia dong cua": 4760,
+            "Khoi luong": 434700,
+            "Thay doi": "-80.00",
+            "Thay doi %": "-1.6",
+            "Thap_nhat": 4700,
+            "Cao_nhat": 4870,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BMC",
+            "Gia dong cua": 14100,
+            "Khoi luong": 42400,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 14100,
+            "Cao_nhat": 14450,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BMI",
+            "Gia dong cua": 23950,
+            "Khoi luong": 167100,
+            "Thay doi": "-350.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 23700,
+            "Cao_nhat": 24100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BMP",
+            "Gia dong cua": 88100,
+            "Khoi luong": 696000,
+            "Thay doi": "5700.00",
+            "Thay doi %": "6.9",
+            "Thap_nhat": 82600,
+            "Cao_nhat": 88300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BRC",
+            "Gia dong cua": 11800,
+            "Khoi luong": 300,
+            "Thay doi": "-700.00",
+            "Thay doi %": "-5.6",
+            "Thap_nhat": 11800,
+            "Cao_nhat": 11800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BSI",
+            "Gia dong cua": 32500,
+            "Khoi luong": 1593000,
+            "Thay doi": "550.00",
+            "Thay doi %": "1.7",
+            "Thap_nhat": 31150,
+            "Cao_nhat": 32550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BTP",
+            "Gia dong cua": 16400,
+            "Khoi luong": 27800,
+            "Thay doi": "150.00",
+            "Thay doi %": "0.9",
+            "Thap_nhat": 16300,
+            "Cao_nhat": 16550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BTT",
+            "Gia dong cua": 30000,
+            "Khoi luong": 1600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 30000,
+            "Cao_nhat": 32000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BVH",
+            "Gia dong cua": 43800,
+            "Khoi luong": 687400,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-0.7",
+            "Thap_nhat": 43650,
+            "Cao_nhat": 44150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "BWE",
+            "Gia dong cua": 44900,
+            "Khoi luong": 107300,
+            "Thay doi": "600.00",
+            "Thay doi %": "1.4",
+            "Thap_nhat": 44400,
+            "Cao_nhat": 44950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "C32",
+            "Gia dong cua": 18700,
+            "Khoi luong": 9100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 18600,
+            "Cao_nhat": 18800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "C47",
+            "Gia dong cua": 7660,
+            "Khoi luong": 297600,
+            "Thay doi": "40.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 7530,
+            "Cao_nhat": 7700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CAV",
+            "Gia dong cua": 55000,
+            "Khoi luong": 800,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 54900,
+            "Cao_nhat": 55000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CCI",
+            "Gia dong cua": 24000,
+            "Khoi luong": 700,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 24000,
+            "Cao_nhat": 24500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CCL",
+            "Gia dong cua": 7150,
+            "Khoi luong": 212800,
+            "Thay doi": "20.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 7100,
+            "Cao_nhat": 7280,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CDC",
+            "Gia dong cua": 18700,
+            "Khoi luong": 365300,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 18550,
+            "Cao_nhat": 18800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CHP",
+            "Gia dong cua": 23400,
+            "Khoi luong": 2400,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 23250,
+            "Cao_nhat": 24400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CIG",
+            "Gia dong cua": 6390,
+            "Khoi luong": 222500,
+            "Thay doi": "70.00",
+            "Thay doi %": "1.1",
+            "Thap_nhat": 6300,
+            "Cao_nhat": 6490,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CII",
+            "Gia dong cua": 17500,
+            "Khoi luong": 8798100,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 17050,
+            "Cao_nhat": 17750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CKG",
+            "Gia dong cua": 24650,
+            "Khoi luong": 69700,
+            "Thay doi": "150.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 24150,
+            "Cao_nhat": 24850,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CLC",
+            "Gia dong cua": 36000,
+            "Khoi luong": 600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 36000,
+            "Cao_nhat": 36850,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CLL",
+            "Gia dong cua": 31600,
+            "Khoi luong": 7300,
+            "Thay doi": "-250.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 31600,
+            "Cao_nhat": 31650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CLW",
+            "Gia dong cua": 30250,
+            "Khoi luong": 100,
+            "Thay doi": "-2250.00",
+            "Thay doi %": "-6.9",
+            "Thap_nhat": 30250,
+            "Cao_nhat": 30250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CMG",
+            "Gia dong cua": 44400,
+            "Khoi luong": 89200,
+            "Thay doi": "1000.00",
+            "Thay doi %": "2.2",
+            "Thap_nhat": 43000,
+            "Cao_nhat": 45500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CMV",
+            "Gia dong cua": 9450,
+            "Khoi luong": 1100,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-1.6",
+            "Thap_nhat": 9450,
+            "Cao_nhat": 9590,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CMX",
+            "Gia dong cua": 9500,
+            "Khoi luong": 869500,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-1.0",
+            "Thap_nhat": 9350,
+            "Cao_nhat": 9670,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CNG",
+            "Gia dong cua": 33500,
+            "Khoi luong": 21900,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 33000,
+            "Cao_nhat": 34000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "COM",
+            "Gia dong cua": 31900,
+            "Khoi luong": 100,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 31900,
+            "Cao_nhat": 31900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CRC",
+            "Gia dong cua": 6220,
+            "Khoi luong": 128400,
+            "Thay doi": "220.00",
+            "Thay doi %": "3.6",
+            "Thap_nhat": 6100,
+            "Cao_nhat": 6390,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CRE",
+            "Gia dong cua": 9000,
+            "Khoi luong": 1645200,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 8710,
+            "Cao_nhat": 9070,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CSM",
+            "Gia dong cua": 13600,
+            "Khoi luong": 4300,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 13600,
+            "Cao_nhat": 13800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CSV",
+            "Gia dong cua": 32750,
+            "Khoi luong": 878800,
+            "Thay doi": "1500.00",
+            "Thay doi %": "4.8",
+            "Thap_nhat": 31000,
+            "Cao_nhat": 33000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CTD",
+            "Gia dong cua": 65500,
+            "Khoi luong": 580200,
+            "Thay doi": "1000.00",
+            "Thay doi %": "1.5",
+            "Thap_nhat": 64500,
+            "Cao_nhat": 66500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CTF",
+            "Gia dong cua": 36400,
+            "Khoi luong": 847200,
+            "Thay doi": "200.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 36150,
+            "Cao_nhat": 36600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CTG",
+            "Gia dong cua": 28350,
+            "Khoi luong": 6111000,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-0.7",
+            "Thap_nhat": 28100,
+            "Cao_nhat": 28650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CTI",
+            "Gia dong cua": 14200,
+            "Khoi luong": 360600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 14000,
+            "Cao_nhat": 14400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CTR",
+            "Gia dong cua": 70400,
+            "Khoi luong": 92200,
+            "Thay doi": "200.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 70000,
+            "Cao_nhat": 71000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CTS",
+            "Gia dong cua": 18750,
+            "Khoi luong": 1525900,
+            "Thay doi": "500.00",
+            "Thay doi %": "2.7",
+            "Thap_nhat": 18300,
+            "Cao_nhat": 18800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "CVT",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "D2D",
+            "Gia dong cua": 28200,
+            "Khoi luong": 29500,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 28150,
+            "Cao_nhat": 28400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DAG",
+            "Gia dong cua": 5300,
+            "Khoi luong": 525600,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 5180,
+            "Cao_nhat": 5330,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DAH",
+            "Gia dong cua": 4800,
+            "Khoi luong": 2563500,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 4700,
+            "Cao_nhat": 4900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DAT",
+            "Gia dong cua": 10850,
+            "Khoi luong": 2000,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.9",
+            "Thap_nhat": 10850,
+            "Cao_nhat": 11000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DBC",
+            "Gia dong cua": 19450,
+            "Khoi luong": 6597800,
+            "Thay doi": "-350.00",
+            "Thay doi %": "-1.8",
+            "Thap_nhat": 18800,
+            "Cao_nhat": 20000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DBD",
+            "Gia dong cua": 48150,
+            "Khoi luong": 650600,
+            "Thay doi": "3150.00",
+            "Thay doi %": "7.0",
+            "Thap_nhat": 45100,
+            "Cao_nhat": 48150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DBT",
+            "Gia dong cua": 12650,
+            "Khoi luong": 81800,
+            "Thay doi": "500.00",
+            "Thay doi %": "4.1",
+            "Thap_nhat": 12000,
+            "Cao_nhat": 12800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DC4",
+            "Gia dong cua": 8700,
+            "Khoi luong": 43600,
+            "Thay doi": "420.00",
+            "Thay doi %": "4.9",
+            "Thap_nhat": 8500,
+            "Cao_nhat": 9150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DCL",
+            "Gia dong cua": 24100,
+            "Khoi luong": 150400,
+            "Thay doi": "1200.00",
+            "Thay doi %": "5.2",
+            "Thap_nhat": 22700,
+            "Cao_nhat": 24150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DCM",
+            "Gia dong cua": 25400,
+            "Khoi luong": 4644300,
+            "Thay doi": "550.00",
+            "Thay doi %": "2.2",
+            "Thap_nhat": 24750,
+            "Cao_nhat": 25550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DGC",
+            "Gia dong cua": 63100,
+            "Khoi luong": 9222300,
+            "Thay doi": "4100.00",
+            "Thay doi %": "6.9",
+            "Thap_nhat": 58800,
+            "Cao_nhat": 63100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DGW",
+            "Gia dong cua": 37950,
+            "Khoi luong": 2107000,
+            "Thay doi": "1250.00",
+            "Thay doi %": "3.4",
+            "Thap_nhat": 36950,
+            "Cao_nhat": 38350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DHA",
+            "Gia dong cua": 38750,
+            "Khoi luong": 38500,
+            "Thay doi": "250.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 38000,
+            "Cao_nhat": 39000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DHC",
+            "Gia dong cua": 42000,
+            "Khoi luong": 109200,
+            "Thay doi": "-400.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 41500,
+            "Cao_nhat": 42500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DHG",
+            "Gia dong cua": 126200,
+            "Khoi luong": 127700,
+            "Thay doi": "8200.00",
+            "Thay doi %": "6.9",
+            "Thap_nhat": 117900,
+            "Cao_nhat": 126200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DHM",
+            "Gia dong cua": 8490,
+            "Khoi luong": 102100,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 8450,
+            "Cao_nhat": 8530,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DIG",
+            "Gia dong cua": 20750,
+            "Khoi luong": 29069500,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 19800,
+            "Cao_nhat": 21150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DLG",
+            "Gia dong cua": 3290,
+            "Khoi luong": 4882600,
+            "Thay doi": "-40.00",
+            "Thay doi %": "-1.2",
+            "Thap_nhat": 3220,
+            "Cao_nhat": 3400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DMC",
+            "Gia dong cua": 58700,
+            "Khoi luong": 37900,
+            "Thay doi": "2400.00",
+            "Thay doi %": "4.2",
+            "Thap_nhat": 57300,
+            "Cao_nhat": 59200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DPG",
+            "Gia dong cua": 33800,
+            "Khoi luong": 733900,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 33150,
+            "Cao_nhat": 34000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DPM",
+            "Gia dong cua": 33200,
+            "Khoi luong": 2694200,
+            "Thay doi": "400.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 32700,
+            "Cao_nhat": 33350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DPR",
+            "Gia dong cua": 58500,
+            "Khoi luong": 161200,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 58200,
+            "Cao_nhat": 59200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DQC",
+            "Gia dong cua": 20000,
+            "Khoi luong": 79000,
+            "Thay doi": "-350.00",
+            "Thay doi %": "-1.7",
+            "Thap_nhat": 19800,
+            "Cao_nhat": 20450,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DRC",
+            "Gia dong cua": 20500,
+            "Khoi luong": 358700,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-1.0",
+            "Thap_nhat": 20200,
+            "Cao_nhat": 20800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DRH",
+            "Gia dong cua": 6510,
+            "Khoi luong": 8019200,
+            "Thay doi": "-110.00",
+            "Thay doi %": "-1.7",
+            "Thap_nhat": 6300,
+            "Cao_nhat": 6730,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DRL",
+            "Gia dong cua": 61000,
+            "Khoi luong": 600,
+            "Thay doi": "-3000.00",
+            "Thay doi %": "-4.7",
+            "Thap_nhat": 61000,
+            "Cao_nhat": 64000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DSN",
+            "Gia dong cua": 57000,
+            "Khoi luong": 126200,
+            "Thay doi": "-800.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 54900,
+            "Cao_nhat": 57600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DTA",
+            "Gia dong cua": 6850,
+            "Khoi luong": 17300,
+            "Thay doi": "-40.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 6400,
+            "Cao_nhat": 6850,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DTL",
+            "Gia dong cua": 34500,
+            "Khoi luong": 300,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 34500,
+            "Cao_nhat": 34500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DTT",
+            "Gia dong cua": 14400,
+            "Khoi luong": 200,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 14400,
+            "Cao_nhat": 14400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DVP",
+            "Gia dong cua": 53800,
+            "Khoi luong": 26600,
+            "Thay doi": "-900.00",
+            "Thay doi %": "-1.6",
+            "Thap_nhat": 53700,
+            "Cao_nhat": 54500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DXG",
+            "Gia dong cua": 14450,
+            "Khoi luong": 20170800,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 14000,
+            "Cao_nhat": 14650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DXS",
+            "Gia dong cua": 8400,
+            "Khoi luong": 4210700,
+            "Thay doi": "-30.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 8000,
+            "Cao_nhat": 8500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "DXV",
+            "Gia dong cua": 4050,
+            "Khoi luong": 9100,
+            "Thay doi": "-140.00",
+            "Thay doi %": "-3.4",
+            "Thap_nhat": 4010,
+            "Cao_nhat": 4130,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "E1VFVN30",
+            "Gia dong cua": 18740,
+            "Khoi luong": 72600,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.1",
+            "Thap_nhat": 18640,
+            "Cao_nhat": 18800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "EIB",
+            "Gia dong cua": 20600,
+            "Khoi luong": 9166900,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 20100,
+            "Cao_nhat": 20950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ELC",
+            "Gia dong cua": 13000,
+            "Khoi luong": 415700,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.8",
+            "Thap_nhat": 12800,
+            "Cao_nhat": 13200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "EMC",
+            "Gia dong cua": 9400,
+            "Khoi luong": 300,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 9400,
+            "Cao_nhat": 9400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "EVE",
+            "Gia dong cua": 16750,
+            "Khoi luong": 822500,
+            "Thay doi": "350.00",
+            "Thay doi %": "2.1",
+            "Thap_nhat": 16400,
+            "Cao_nhat": 16900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "EVF",
+            "Gia dong cua": 9600,
+            "Khoi luong": 544700,
+            "Thay doi": "-80.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 9580,
+            "Cao_nhat": 9800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "EVG",
+            "Gia dong cua": 7800,
+            "Khoi luong": 5897500,
+            "Thay doi": "-370.00",
+            "Thay doi %": "-4.5",
+            "Thap_nhat": 7660,
+            "Cao_nhat": 8400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FCM",
+            "Gia dong cua": 4700,
+            "Khoi luong": 117600,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 4650,
+            "Cao_nhat": 4760,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FCN",
+            "Gia dong cua": 15300,
+            "Khoi luong": 4490400,
+            "Thay doi": "250.00",
+            "Thay doi %": "1.7",
+            "Thap_nhat": 15000,
+            "Cao_nhat": 15400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FDC",
+            "Gia dong cua": 16600,
+            "Khoi luong": 2100,
+            "Thay doi": "200.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 16600,
+            "Cao_nhat": 16700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FIR",
+            "Gia dong cua": 39500,
+            "Khoi luong": 257700,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 39300,
+            "Cao_nhat": 39900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FIT",
+            "Gia dong cua": 6200,
+            "Khoi luong": 3443400,
+            "Thay doi": "130.00",
+            "Thay doi %": "2.1",
+            "Thap_nhat": 6110,
+            "Cao_nhat": 6320,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FMC",
+            "Gia dong cua": 41550,
+            "Khoi luong": 39300,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.2",
+            "Thap_nhat": 41200,
+            "Cao_nhat": 41800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FPT",
+            "Gia dong cua": 84400,
+            "Khoi luong": 680200,
+            "Thay doi": "1000.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 83700,
+            "Cao_nhat": 84700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FRT",
+            "Gia dong cua": 57900,
+            "Khoi luong": 940500,
+            "Thay doi": "900.00",
+            "Thay doi %": "1.6",
+            "Thap_nhat": 56600,
+            "Cao_nhat": 58100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FTS",
+            "Gia dong cua": 28850,
+            "Khoi luong": 1925000,
+            "Thay doi": "450.00",
+            "Thay doi %": "1.6",
+            "Thap_nhat": 27900,
+            "Cao_nhat": 28850,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUCTVGF3",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUCTVGF4",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUCVREIT",
+            "Gia dong cua": 7000,
+            "Khoi luong": 900,
+            "Thay doi": "100.00",
+            "Thay doi %": "1.4",
+            "Thap_nhat": 6990,
+            "Cao_nhat": 7090,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEDCMID",
+            "Gia dong cua": 8940,
+            "Khoi luong": 27500,
+            "Thay doi": "-40.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 8900,
+            "Cao_nhat": 8960,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEFCV50",
+            "Gia dong cua": 14000,
+            "Khoi luong": 2100,
+            "Thay doi": "-510.00",
+            "Thay doi %": "-3.5",
+            "Thap_nhat": 13500,
+            "Cao_nhat": 14510,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEIP100",
+            "Gia dong cua": 7700,
+            "Khoi luong": 10000,
+            "Thay doi": "-30.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 7700,
+            "Cao_nhat": 7740,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEKIV30",
+            "Gia dong cua": 7180,
+            "Khoi luong": 50600,
+            "Thay doi": "10.00",
+            "Thay doi %": "0.1",
+            "Thap_nhat": 7140,
+            "Cao_nhat": 7210,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEKIVFS",
+            "Gia dong cua": 9800,
+            "Khoi luong": 53300,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 9800,
+            "Cao_nhat": 9880,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEMAV30",
+            "Gia dong cua": 12970,
+            "Khoi luong": 15700,
+            "Thay doi": "140.00",
+            "Thay doi %": "1.1",
+            "Thap_nhat": 12850,
+            "Cao_nhat": 13040,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEMAVND",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUESSV30",
+            "Gia dong cua": 13450,
+            "Khoi luong": 56900,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 13450,
+            "Cao_nhat": 13500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUESSV50",
+            "Gia dong cua": 16410,
+            "Khoi luong": 3000,
+            "Thay doi": "320.00",
+            "Thay doi %": "2.0",
+            "Thap_nhat": 16410,
+            "Cao_nhat": 16490,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUESSVFL",
+            "Gia dong cua": 16940,
+            "Khoi luong": 7200,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 16610,
+            "Cao_nhat": 17110,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEVFVND",
+            "Gia dong cua": 23250,
+            "Khoi luong": 1046800,
+            "Thay doi": "130.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 23120,
+            "Cao_nhat": 23300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "FUEVN100",
+            "Gia dong cua": 14060,
+            "Khoi luong": 97300,
+            "Thay doi": "20.00",
+            "Thay doi %": "0.1",
+            "Thap_nhat": 14000,
+            "Cao_nhat": 14120,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GAB",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GAS",
+            "Gia dong cua": 93700,
+            "Khoi luong": 288800,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.1",
+            "Thap_nhat": 93200,
+            "Cao_nhat": 94100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GDT",
+            "Gia dong cua": 29450,
+            "Khoi luong": 24800,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 29000,
+            "Cao_nhat": 29500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GEG",
+            "Gia dong cua": 16750,
+            "Khoi luong": 2158800,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 16600,
+            "Cao_nhat": 17000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GEX",
+            "Gia dong cua": 18750,
+            "Khoi luong": 36814100,
+            "Thay doi": "1200.00",
+            "Thay doi %": "6.7",
+            "Thap_nhat": 18100,
+            "Cao_nhat": 19100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GIL",
+            "Gia dong cua": 26300,
+            "Khoi luong": 1004600,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 25700,
+            "Cao_nhat": 26550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GMC",
+            "Gia dong cua": 9100,
+            "Khoi luong": 600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 9100,
+            "Cao_nhat": 9100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GMD",
+            "Gia dong cua": 51300,
+            "Khoi luong": 1065600,
+            "Thay doi": "1400.00",
+            "Thay doi %": "2.8",
+            "Thap_nhat": 50100,
+            "Cao_nhat": 51500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GMH",
+            "Gia dong cua": 9840,
+            "Khoi luong": 12100,
+            "Thay doi": "-10.00",
+            "Thay doi %": "-0.1",
+            "Thap_nhat": 9810,
+            "Cao_nhat": 10000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GSP",
+            "Gia dong cua": 11200,
+            "Khoi luong": 240100,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 11000,
+            "Cao_nhat": 11250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GTA",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "GVR",
+            "Gia dong cua": 17950,
+            "Khoi luong": 3482100,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 17600,
+            "Cao_nhat": 18250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HAG",
+            "Gia dong cua": 8080,
+            "Khoi luong": 15770900,
+            "Thay doi": "-80.00",
+            "Thay doi %": "-1.0",
+            "Thap_nhat": 8000,
+            "Cao_nhat": 8240,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HAH",
+            "Gia dong cua": 44500,
+            "Khoi luong": 2674900,
+            "Thay doi": "1650.00",
+            "Thay doi %": "3.9",
+            "Thap_nhat": 42800,
+            "Cao_nhat": 44500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HAP",
+            "Gia dong cua": 5570,
+            "Khoi luong": 657000,
+            "Thay doi": "10.00",
+            "Thay doi %": "0.2",
+            "Thap_nhat": 5540,
+            "Cao_nhat": 5780,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HAR",
+            "Gia dong cua": 4600,
+            "Khoi luong": 452200,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-2.1",
+            "Thap_nhat": 4590,
+            "Cao_nhat": 4760,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HAS",
+            "Gia dong cua": 8710,
+            "Khoi luong": 1900,
+            "Thay doi": "-580.00",
+            "Thay doi %": "-6.2",
+            "Thap_nhat": 8710,
+            "Cao_nhat": 8710,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HAX",
+            "Gia dong cua": 19300,
+            "Khoi luong": 1428800,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 18950,
+            "Cao_nhat": 19650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HBC",
+            "Gia dong cua": 8800,
+            "Khoi luong": 3566400,
+            "Thay doi": "90.00",
+            "Thay doi %": "1.0",
+            "Thap_nhat": 8500,
+            "Cao_nhat": 8950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HCD",
+            "Gia dong cua": 7210,
+            "Khoi luong": 407100,
+            "Thay doi": "-90.00",
+            "Thay doi %": "-1.2",
+            "Thap_nhat": 7170,
+            "Cao_nhat": 7440,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HCM",
+            "Gia dong cua": 26550,
+            "Khoi luong": 5209400,
+            "Thay doi": "500.00",
+            "Thay doi %": "1.9",
+            "Thap_nhat": 25900,
+            "Cao_nhat": 26600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HDB",
+            "Gia dong cua": 18600,
+            "Khoi luong": 2312200,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-1.1",
+            "Thap_nhat": 18400,
+            "Cao_nhat": 18750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HDC",
+            "Gia dong cua": 37000,
+            "Khoi luong": 1205200,
+            "Thay doi": "700.00",
+            "Thay doi %": "1.9",
+            "Thap_nhat": 36050,
+            "Cao_nhat": 37300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HDG",
+            "Gia dong cua": 37200,
+            "Khoi luong": 2024300,
+            "Thay doi": "1500.00",
+            "Thay doi %": "4.2",
+            "Thap_nhat": 36100,
+            "Cao_nhat": 37500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HHP",
+            "Gia dong cua": 10150,
+            "Khoi luong": 556700,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 10050,
+            "Cao_nhat": 10450,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HHS",
+            "Gia dong cua": 5270,
+            "Khoi luong": 2400200,
+            "Thay doi": "-30.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 5150,
+            "Cao_nhat": 5350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HHV",
+            "Gia dong cua": 13750,
+            "Khoi luong": 6366700,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 13500,
+            "Cao_nhat": 13900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HID",
+            "Gia dong cua": 3800,
+            "Khoi luong": 411500,
+            "Thay doi": "-110.00",
+            "Thay doi %": "-2.8",
+            "Thap_nhat": 3780,
+            "Cao_nhat": 3950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HII",
+            "Gia dong cua": 5430,
+            "Khoi luong": 230200,
+            "Thay doi": "-60.00",
+            "Thay doi %": "-1.1",
+            "Thap_nhat": 5350,
+            "Cao_nhat": 5500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HMC",
+            "Gia dong cua": 10250,
+            "Khoi luong": 35700,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-1.9",
+            "Thap_nhat": 10200,
+            "Cao_nhat": 10400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HNG",
+            "Gia dong cua": 3960,
+            "Khoi luong": 4138000,
+            "Thay doi": "-70.00",
+            "Thay doi %": "-1.7",
+            "Thap_nhat": 3950,
+            "Cao_nhat": 4080,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HPG",
+            "Gia dong cua": 22700,
+            "Khoi luong": 23873600,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 22500,
+            "Cao_nhat": 22900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HPX",
+            "Gia dong cua": 4410,
+            "Khoi luong": 6418800,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-2.2",
+            "Thap_nhat": 4300,
+            "Cao_nhat": 4620,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HQC",
+            "Gia dong cua": 4630,
+            "Khoi luong": 11270900,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 4560,
+            "Cao_nhat": 4710,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HRC",
+            "Gia dong cua": 53900,
+            "Khoi luong": 600,
+            "Thay doi": "1900.00",
+            "Thay doi %": "3.7",
+            "Thap_nhat": 53900,
+            "Cao_nhat": 53900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HSG",
+            "Gia dong cua": 16500,
+            "Khoi luong": 14869800,
+            "Thay doi": "200.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 16250,
+            "Cao_nhat": 16600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HSL",
+            "Gia dong cua": 6420,
+            "Khoi luong": 716600,
+            "Thay doi": "100.00",
+            "Thay doi %": "1.6",
+            "Thap_nhat": 6400,
+            "Cao_nhat": 6800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HT1",
+            "Gia dong cua": 14950,
+            "Khoi luong": 1274400,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-1.0",
+            "Thap_nhat": 14800,
+            "Cao_nhat": 15200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HTI",
+            "Gia dong cua": 16400,
+            "Khoi luong": 1100,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 16400,
+            "Cao_nhat": 16400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HTL",
+            "Gia dong cua": 16100,
+            "Khoi luong": 1100,
+            "Thay doi": "-900.00",
+            "Thay doi %": "-5.3",
+            "Thap_nhat": 16100,
+            "Cao_nhat": 17000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HTN",
+            "Gia dong cua": 14850,
+            "Khoi luong": 948100,
+            "Thay doi": "300.00",
+            "Thay doi %": "2.0",
+            "Thap_nhat": 14400,
+            "Cao_nhat": 15200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HTV",
+            "Gia dong cua": 9990,
+            "Khoi luong": 3500,
+            "Thay doi": "-10.00",
+            "Thay doi %": "-0.1",
+            "Thap_nhat": 9990,
+            "Cao_nhat": 10100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HU1",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HUB",
+            "Gia dong cua": 18100,
+            "Khoi luong": 3600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 18050,
+            "Cao_nhat": 18550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HVH",
+            "Gia dong cua": 6510,
+            "Khoi luong": 250700,
+            "Thay doi": "-90.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 6470,
+            "Cao_nhat": 6610,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HVN",
+            "Gia dong cua": 13500,
+            "Khoi luong": 1267600,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-1.1",
+            "Thap_nhat": 13400,
+            "Cao_nhat": 13650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "HVX",
+            "Gia dong cua": 3330,
+            "Khoi luong": 31700,
+            "Thay doi": "-30.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 3300,
+            "Cao_nhat": 3340,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "IBC",
+            "Gia dong cua": 2650,
+            "Khoi luong": 1103100,
+            "Thay doi": "-90.00",
+            "Thay doi %": "-3.3",
+            "Thap_nhat": 2600,
+            "Cao_nhat": 2790,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ICT",
+            "Gia dong cua": 12800,
+            "Khoi luong": 3800,
+            "Thay doi": "150.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 12650,
+            "Cao_nhat": 12800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "IDI",
+            "Gia dong cua": 12800,
+            "Khoi luong": 5055800,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 12400,
+            "Cao_nhat": 12950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "IJC",
+            "Gia dong cua": 14550,
+            "Khoi luong": 3720400,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 14350,
+            "Cao_nhat": 14750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ILB",
+            "Gia dong cua": 32000,
+            "Khoi luong": 100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 32000,
+            "Cao_nhat": 32000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "IMP",
+            "Gia dong cua": 61000,
+            "Khoi luong": 38600,
+            "Thay doi": "3100.00",
+            "Thay doi %": "5.4",
+            "Thap_nhat": 57900,
+            "Cao_nhat": 61000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ITA",
+            "Gia dong cua": 5780,
+            "Khoi luong": 5841900,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-1.7",
+            "Thap_nhat": 5640,
+            "Cao_nhat": 5990,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ITC",
+            "Gia dong cua": 12800,
+            "Khoi luong": 841500,
+            "Thay doi": "150.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 12700,
+            "Cao_nhat": 13200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ITD",
+            "Gia dong cua": 11800,
+            "Khoi luong": 5600,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-1.3",
+            "Thap_nhat": 11800,
+            "Cao_nhat": 12000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "JVC",
+            "Gia dong cua": 4150,
+            "Khoi luong": 1511300,
+            "Thay doi": "-10.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 4120,
+            "Cao_nhat": 4210,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KBC",
+            "Gia dong cua": 27400,
+            "Khoi luong": 9186700,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 26900,
+            "Cao_nhat": 27750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KDC",
+            "Gia dong cua": 64500,
+            "Khoi luong": 796600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 64100,
+            "Cao_nhat": 64900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KDH",
+            "Gia dong cua": 30400,
+            "Khoi luong": 2561600,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.2",
+            "Thap_nhat": 29900,
+            "Cao_nhat": 30600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KHG",
+            "Gia dong cua": 6300,
+            "Khoi luong": 7200200,
+            "Thay doi": "-10.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 6160,
+            "Cao_nhat": 6400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KHP",
+            "Gia dong cua": 10250,
+            "Khoi luong": 157500,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-1.0",
+            "Thap_nhat": 10150,
+            "Cao_nhat": 10350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KMR",
+            "Gia dong cua": 3990,
+            "Khoi luong": 320400,
+            "Thay doi": "-60.00",
+            "Thay doi %": "-1.5",
+            "Thap_nhat": 3940,
+            "Cao_nhat": 4100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KOS",
+            "Gia dong cua": 38650,
+            "Khoi luong": 324700,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.1",
+            "Thap_nhat": 38600,
+            "Cao_nhat": 38850,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KPF",
+            "Gia dong cua": 8790,
+            "Khoi luong": 672800,
+            "Thay doi": "-30.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 8720,
+            "Cao_nhat": 9150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "KSB",
+            "Gia dong cua": 26650,
+            "Khoi luong": 2587200,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 26050,
+            "Cao_nhat": 26800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "L10",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LAF",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LBM",
+            "Gia dong cua": 46900,
+            "Khoi luong": 1300,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 46500,
+            "Cao_nhat": 46900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LCG",
+            "Gia dong cua": 13050,
+            "Khoi luong": 10963500,
+            "Thay doi": "-250.00",
+            "Thay doi %": "-1.9",
+            "Thap_nhat": 12800,
+            "Cao_nhat": 13300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LDG",
+            "Gia dong cua": 5300,
+            "Khoi luong": 15468200,
+            "Thay doi": "100.00",
+            "Thay doi %": "1.9",
+            "Thap_nhat": 5200,
+            "Cao_nhat": 5500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LEC",
+            "Gia dong cua": 6320,
+            "Khoi luong": 4200,
+            "Thay doi": "-470.00",
+            "Thay doi %": "-6.9",
+            "Thap_nhat": 6320,
+            "Cao_nhat": 6770,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LGC",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LGL",
+            "Gia dong cua": 5170,
+            "Khoi luong": 1169400,
+            "Thay doi": "-70.00",
+            "Thay doi %": "-1.3",
+            "Thap_nhat": 4860,
+            "Cao_nhat": 5540,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LHG",
+            "Gia dong cua": 27050,
+            "Khoi luong": 154200,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 25450,
+            "Cao_nhat": 27350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LIX",
+            "Gia dong cua": 46750,
+            "Khoi luong": 200,
+            "Thay doi": "1250.00",
+            "Thay doi %": "2.7",
+            "Thap_nhat": 46750,
+            "Cao_nhat": 46750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LM8",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LPB",
+            "Gia dong cua": 15100,
+            "Khoi luong": 7825900,
+            "Thay doi": "500.00",
+            "Thay doi %": "3.4",
+            "Thap_nhat": 14550,
+            "Cao_nhat": 15150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "LSS",
+            "Gia dong cua": 12900,
+            "Khoi luong": 4367200,
+            "Thay doi": "800.00",
+            "Thay doi %": "6.6",
+            "Thap_nhat": 12400,
+            "Cao_nhat": 12900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MBB",
+            "Gia dong cua": 20150,
+            "Khoi luong": 10356300,
+            "Thay doi": "250.00",
+            "Thay doi %": "1.3",
+            "Thap_nhat": 20000,
+            "Cao_nhat": 20250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MCP",
+            "Gia dong cua": 28500,
+            "Khoi luong": 100,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 28500,
+            "Cao_nhat": 28500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MDG",
+            "Gia dong cua": 13050,
+            "Khoi luong": 300,
+            "Thay doi": "850.00",
+            "Thay doi %": "7.0",
+            "Thap_nhat": 13050,
+            "Cao_nhat": 13050,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MHC",
+            "Gia dong cua": 5750,
+            "Khoi luong": 93100,
+            "Thay doi": "-120.00",
+            "Thay doi %": "-2.0",
+            "Thap_nhat": 5710,
+            "Cao_nhat": 5990,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MIG",
+            "Gia dong cua": 18000,
+            "Khoi luong": 539600,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 17800,
+            "Cao_nhat": 18200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MSB",
+            "Gia dong cua": 12950,
+            "Khoi luong": 7633900,
+            "Thay doi": "400.00",
+            "Thay doi %": "3.1",
+            "Thap_nhat": 12600,
+            "Cao_nhat": 13100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MSH",
+            "Gia dong cua": 35600,
+            "Khoi luong": 129000,
+            "Thay doi": "400.00",
+            "Thay doi %": "1.1",
+            "Thap_nhat": 35100,
+            "Cao_nhat": 35800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MSN",
+            "Gia dong cua": 76300,
+            "Khoi luong": 2410700,
+            "Thay doi": "2100.00",
+            "Thay doi %": "2.8",
+            "Thap_nhat": 74200,
+            "Cao_nhat": 76900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "MWG",
+            "Gia dong cua": 41000,
+            "Khoi luong": 4124000,
+            "Thay doi": "750.00",
+            "Thay doi %": "1.8",
+            "Thap_nhat": 40500,
+            "Cao_nhat": 41400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NAF",
+            "Gia dong cua": 13250,
+            "Khoi luong": 274400,
+            "Thay doi": "-400.00",
+            "Thay doi %": "-2.9",
+            "Thap_nhat": 13150,
+            "Cao_nhat": 13600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NAV",
+            "Gia dong cua": 15000,
+            "Khoi luong": 3500,
+            "Thay doi": "-550.00",
+            "Thay doi %": "-3.5",
+            "Thap_nhat": 15000,
+            "Cao_nhat": 15550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NBB",
+            "Gia dong cua": 14650,
+            "Khoi luong": 349000,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 14300,
+            "Cao_nhat": 14650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NCT",
+            "Gia dong cua": 89500,
+            "Khoi luong": 1500,
+            "Thay doi": "400.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 89200,
+            "Cao_nhat": 90400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NHA",
+            "Gia dong cua": 20800,
+            "Khoi luong": 478900,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 19900,
+            "Cao_nhat": 20950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NHH",
+            "Gia dong cua": 15550,
+            "Khoi luong": 192800,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 15300,
+            "Cao_nhat": 15800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NHT",
+            "Gia dong cua": 12750,
+            "Khoi luong": 6600,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 12700,
+            "Cao_nhat": 12900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NKG",
+            "Gia dong cua": 16550,
+            "Khoi luong": 10673300,
+            "Thay doi": "400.00",
+            "Thay doi %": "2.5",
+            "Thap_nhat": 16150,
+            "Cao_nhat": 16700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NLG",
+            "Gia dong cua": 32600,
+            "Khoi luong": 2926300,
+            "Thay doi": "600.00",
+            "Thay doi %": "1.9",
+            "Thap_nhat": 31550,
+            "Cao_nhat": 33000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NNC",
+            "Gia dong cua": 18100,
+            "Khoi luong": 2700,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 17800,
+            "Cao_nhat": 18200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NO1",
+            "Gia dong cua": 7130,
+            "Khoi luong": 400,
+            "Thay doi": "120.00",
+            "Thay doi %": "1.7",
+            "Thap_nhat": 7010,
+            "Cao_nhat": 7160,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NSC",
+            "Gia dong cua": 69000,
+            "Khoi luong": 6800,
+            "Thay doi": "200.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 69000,
+            "Cao_nhat": 69600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NT2",
+            "Gia dong cua": 32100,
+            "Khoi luong": 738900,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 31700,
+            "Cao_nhat": 32500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NTL",
+            "Gia dong cua": 22450,
+            "Khoi luong": 917700,
+            "Thay doi": "-550.00",
+            "Thay doi %": "-2.4",
+            "Thap_nhat": 22200,
+            "Cao_nhat": 23150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NVL",
+            "Gia dong cua": 14550,
+            "Khoi luong": 30828400,
+            "Thay doi": "400.00",
+            "Thay doi %": "2.8",
+            "Thap_nhat": 14150,
+            "Cao_nhat": 14700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "NVT",
+            "Gia dong cua": 8800,
+            "Khoi luong": 22900,
+            "Thay doi": "80.00",
+            "Thay doi %": "0.9",
+            "Thap_nhat": 8510,
+            "Cao_nhat": 8990,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "OCB",
+            "Gia dong cua": 18450,
+            "Khoi luong": 1471100,
+            "Thay doi": "200.00",
+            "Thay doi %": "1.1",
+            "Thap_nhat": 18150,
+            "Cao_nhat": 18500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "OGC",
+            "Gia dong cua": 9070,
+            "Khoi luong": 1423800,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 8950,
+            "Cao_nhat": 9150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "OPC",
+            "Gia dong cua": 23100,
+            "Khoi luong": 8100,
+            "Thay doi": "250.00",
+            "Thay doi %": "1.1",
+            "Thap_nhat": 22950,
+            "Cao_nhat": 23300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ORS",
+            "Gia dong cua": 14400,
+            "Khoi luong": 1858300,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.3",
+            "Thap_nhat": 14200,
+            "Cao_nhat": 14600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PAC",
+            "Gia dong cua": 30500,
+            "Khoi luong": 109500,
+            "Thay doi": "1200.00",
+            "Thay doi %": "4.1",
+            "Thap_nhat": 28800,
+            "Cao_nhat": 30700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PAN",
+            "Gia dong cua": 18400,
+            "Khoi luong": 2181200,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 18100,
+            "Cao_nhat": 18500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PC1",
+            "Gia dong cua": 29500,
+            "Khoi luong": 1817200,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 29200,
+            "Cao_nhat": 29850,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PDN",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PDR",
+            "Gia dong cua": 16750,
+            "Khoi luong": 20663900,
+            "Thay doi": "600.00",
+            "Thay doi %": "3.7",
+            "Thap_nhat": 16050,
+            "Cao_nhat": 17000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PET",
+            "Gia dong cua": 26300,
+            "Khoi luong": 501700,
+            "Thay doi": "700.00",
+            "Thay doi %": "2.7",
+            "Thap_nhat": 25900,
+            "Cao_nhat": 26800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PGC",
+            "Gia dong cua": 15700,
+            "Khoi luong": 26500,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 15700,
+            "Cao_nhat": 15750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PGD",
+            "Gia dong cua": 40750,
+            "Khoi luong": 1200,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.1",
+            "Thap_nhat": 40700,
+            "Cao_nhat": 40750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PGI",
+            "Gia dong cua": 26800,
+            "Khoi luong": 7100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 26800,
+            "Cao_nhat": 26800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PGV",
+            "Gia dong cua": 24450,
+            "Khoi luong": 8100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 24050,
+            "Cao_nhat": 24900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PHC",
+            "Gia dong cua": 6780,
+            "Khoi luong": 206400,
+            "Thay doi": "40.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 6760,
+            "Cao_nhat": 6940,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PHR",
+            "Gia dong cua": 45850,
+            "Khoi luong": 715900,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.2",
+            "Thap_nhat": 45450,
+            "Cao_nhat": 46900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PIT",
+            "Gia dong cua": 5200,
+            "Khoi luong": 24300,
+            "Thay doi": "150.00",
+            "Thay doi %": "3.0",
+            "Thap_nhat": 4940,
+            "Cao_nhat": 5300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PJT",
+            "Gia dong cua": 10400,
+            "Khoi luong": 2500,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 10400,
+            "Cao_nhat": 10400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PLP",
+            "Gia dong cua": 6260,
+            "Khoi luong": 300900,
+            "Thay doi": "-190.00",
+            "Thay doi %": "-3.0",
+            "Thap_nhat": 6150,
+            "Cao_nhat": 6400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PLX",
+            "Gia dong cua": 38250,
+            "Khoi luong": 591100,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 37900,
+            "Cao_nhat": 38300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PMG",
+            "Gia dong cua": 10250,
+            "Khoi luong": 300,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 10250,
+            "Cao_nhat": 10250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PNC",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PNJ",
+            "Gia dong cua": 71900,
+            "Khoi luong": 715300,
+            "Thay doi": "400.00",
+            "Thay doi %": "0.6",
+            "Thap_nhat": 71500,
+            "Cao_nhat": 72200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "POM",
+            "Gia dong cua": 7500,
+            "Khoi luong": 2481300,
+            "Thay doi": "440.00",
+            "Thay doi %": "6.2",
+            "Thap_nhat": 7000,
+            "Cao_nhat": 7550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "POW",
+            "Gia dong cua": 13800,
+            "Khoi luong": 5123000,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 13700,
+            "Cao_nhat": 13900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PPC",
+            "Gia dong cua": 16700,
+            "Khoi luong": 446500,
+            "Thay doi": "500.00",
+            "Thay doi %": "3.1",
+            "Thap_nhat": 16300,
+            "Cao_nhat": 16800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PSH",
+            "Gia dong cua": 15000,
+            "Khoi luong": 2184900,
+            "Thay doi": "650.00",
+            "Thay doi %": "4.5",
+            "Thap_nhat": 14000,
+            "Cao_nhat": 15500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PTB",
+            "Gia dong cua": 48450,
+            "Khoi luong": 216800,
+            "Thay doi": "900.00",
+            "Thay doi %": "1.9",
+            "Thap_nhat": 47000,
+            "Cao_nhat": 48500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PTC",
+            "Gia dong cua": 7350,
+            "Khoi luong": 203400,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 7330,
+            "Cao_nhat": 7700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PTL",
+            "Gia dong cua": 4110,
+            "Khoi luong": 471300,
+            "Thay doi": "20.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 4050,
+            "Cao_nhat": 4280,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PVD",
+            "Gia dong cua": 23500,
+            "Khoi luong": 5399900,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 23050,
+            "Cao_nhat": 23750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PVP",
+            "Gia dong cua": 13300,
+            "Khoi luong": 249500,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 13200,
+            "Cao_nhat": 13400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "PVT",
+            "Gia dong cua": 20900,
+            "Khoi luong": 2463200,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 20700,
+            "Cao_nhat": 21100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "QBS",
+            "Gia dong cua": 3080,
+            "Khoi luong": 1868000,
+            "Thay doi": "-70.00",
+            "Thay doi %": "-2.2",
+            "Thap_nhat": 3010,
+            "Cao_nhat": 3160,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "QCG",
+            "Gia dong cua": 10600,
+            "Khoi luong": 1480400,
+            "Thay doi": "680.00",
+            "Thay doi %": "6.9",
+            "Thap_nhat": 9920,
+            "Cao_nhat": 10600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "RAL",
+            "Gia dong cua": 111100,
+            "Khoi luong": 75500,
+            "Thay doi": "6100.00",
+            "Thay doi %": "5.8",
+            "Thap_nhat": 105500,
+            "Cao_nhat": 112900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "RDP",
+            "Gia dong cua": 6300,
+            "Khoi luong": 15300,
+            "Thay doi": "-190.00",
+            "Thay doi %": "-2.9",
+            "Thap_nhat": 6300,
+            "Cao_nhat": 6590,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "REE",
+            "Gia dong cua": 61800,
+            "Khoi luong": 970000,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 61200,
+            "Cao_nhat": 62200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "S4A",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SAB",
+            "Gia dong cua": 158600,
+            "Khoi luong": 27400,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 158000,
+            "Cao_nhat": 159500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SAM",
+            "Gia dong cua": 7210,
+            "Khoi luong": 1825700,
+            "Thay doi": "-80.00",
+            "Thay doi %": "-1.1",
+            "Thap_nhat": 7060,
+            "Cao_nhat": 7410,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SAV",
+            "Gia dong cua": 16800,
+            "Khoi luong": 18300,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-1.2",
+            "Thap_nhat": 16650,
+            "Cao_nhat": 17100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SBA",
+            "Gia dong cua": 25350,
+            "Khoi luong": 8400,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 25300,
+            "Cao_nhat": 25400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SBT",
+            "Gia dong cua": 17000,
+            "Khoi luong": 7065500,
+            "Thay doi": "700.00",
+            "Thay doi %": "4.3",
+            "Thap_nhat": 16450,
+            "Cao_nhat": 17250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SBV",
+            "Gia dong cua": 10350,
+            "Khoi luong": 18100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 10350,
+            "Cao_nhat": 10400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SC5",
+            "Gia dong cua": 18150,
+            "Khoi luong": 8300,
+            "Thay doi": "-700.00",
+            "Thay doi %": "-3.7",
+            "Thap_nhat": 18000,
+            "Cao_nhat": 18200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SCD",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SCR",
+            "Gia dong cua": 8080,
+            "Khoi luong": 5313500,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 8000,
+            "Cao_nhat": 8150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SCS",
+            "Gia dong cua": 68500,
+            "Khoi luong": 19600,
+            "Thay doi": "1000.00",
+            "Thay doi %": "1.5",
+            "Thap_nhat": 67500,
+            "Cao_nhat": 68500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SFC",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SFG",
+            "Gia dong cua": 9390,
+            "Khoi luong": 4100,
+            "Thay doi": "-10.00",
+            "Thay doi %": "-0.1",
+            "Thap_nhat": 8900,
+            "Cao_nhat": 9390,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SFI",
+            "Gia dong cua": 33500,
+            "Khoi luong": 15200,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 33500,
+            "Cao_nhat": 33700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SGN",
+            "Gia dong cua": 74000,
+            "Khoi luong": 4600,
+            "Thay doi": "500.00",
+            "Thay doi %": "0.7",
+            "Thap_nhat": 73500,
+            "Cao_nhat": 74000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SGR",
+            "Gia dong cua": 23600,
+            "Khoi luong": 33700,
+            "Thay doi": "500.00",
+            "Thay doi %": "2.1",
+            "Thap_nhat": 23600,
+            "Cao_nhat": 24500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SGT",
+            "Gia dong cua": 12600,
+            "Khoi luong": 26800,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 12400,
+            "Cao_nhat": 12750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SHA",
+            "Gia dong cua": 4550,
+            "Khoi luong": 86600,
+            "Thay doi": "-40.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 4500,
+            "Cao_nhat": 4610,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SHB",
+            "Gia dong cua": 12200,
+            "Khoi luong": 24689500,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 11950,
+            "Cao_nhat": 12250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SHI",
+            "Gia dong cua": 13400,
+            "Khoi luong": 263600,
+            "Thay doi": "200.00",
+            "Thay doi %": "1.5",
+            "Thap_nhat": 13250,
+            "Cao_nhat": 13500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SHP",
+            "Gia dong cua": 28500,
+            "Khoi luong": 11400,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-0.7",
+            "Thap_nhat": 28300,
+            "Cao_nhat": 28500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SJD",
+            "Gia dong cua": 15000,
+            "Khoi luong": 123900,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.7",
+            "Thap_nhat": 14900,
+            "Cao_nhat": 15100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SJF",
+            "Gia dong cua": 4030,
+            "Khoi luong": 1035300,
+            "Thay doi": "-170.00",
+            "Thay doi %": "-4.1",
+            "Thap_nhat": 3950,
+            "Cao_nhat": 4200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SJS",
+            "Gia dong cua": 42750,
+            "Khoi luong": 19400,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.2",
+            "Thap_nhat": 42100,
+            "Cao_nhat": 42800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SKG",
+            "Gia dong cua": 20350,
+            "Khoi luong": 1229000,
+            "Thay doi": "950.00",
+            "Thay doi %": "4.9",
+            "Thap_nhat": 19300,
+            "Cao_nhat": 20800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SMA",
+            "Gia dong cua": 7700,
+            "Khoi luong": 2600,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 7600,
+            "Cao_nhat": 7900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SMB",
+            "Gia dong cua": 39000,
+            "Khoi luong": 15900,
+            "Thay doi": "-500.00",
+            "Thay doi %": "-1.3",
+            "Thap_nhat": 38400,
+            "Cao_nhat": 39500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SMC",
+            "Gia dong cua": 13100,
+            "Khoi luong": 670600,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 12950,
+            "Cao_nhat": 13200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SPM",
+            "Gia dong cua": 14000,
+            "Khoi luong": 4400,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 14000,
+            "Cao_nhat": 14100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SRC",
+            "Gia dong cua": 18950,
+            "Khoi luong": 400,
+            "Thay doi": "550.00",
+            "Thay doi %": "3.0",
+            "Thap_nhat": 18500,
+            "Cao_nhat": 18950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SRF",
+            "Gia dong cua": 9510,
+            "Khoi luong": 800,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-2.0",
+            "Thap_nhat": 9510,
+            "Cao_nhat": 9930,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SSB",
+            "Gia dong cua": 31450,
+            "Khoi luong": 693800,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 31250,
+            "Cao_nhat": 31500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SSC",
+            "Gia dong cua": 30600,
+            "Khoi luong": 1400,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 30600,
+            "Cao_nhat": 30600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SSI",
+            "Gia dong cua": 25150,
+            "Khoi luong": 22956500,
+            "Thay doi": "950.00",
+            "Thay doi %": "3.9",
+            "Thap_nhat": 24250,
+            "Cao_nhat": 25250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "ST8",
+            "Gia dong cua": 23850,
+            "Khoi luong": 44500,
+            "Thay doi": "-950.00",
+            "Thay doi %": "-4.0",
+            "Thap_nhat": 22500,
+            "Cao_nhat": 24150,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "STB",
+            "Gia dong cua": 28000,
+            "Khoi luong": 12851200,
+            "Thay doi": "500.00",
+            "Thay doi %": "1.8",
+            "Thap_nhat": 27250,
+            "Cao_nhat": 28100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "STG",
+            "Gia dong cua": 49000,
+            "Khoi luong": 2100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 49000,
+            "Cao_nhat": 49000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "STK",
+            "Gia dong cua": 28150,
+            "Khoi luong": 29200,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 28000,
+            "Cao_nhat": 28200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SVC",
+            "Gia dong cua": 47000,
+            "Khoi luong": 4500,
+            "Thay doi": "3000.00",
+            "Thay doi %": "6.8",
+            "Thap_nhat": 44000,
+            "Cao_nhat": 47000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SVD",
+            "Gia dong cua": 4260,
+            "Khoi luong": 152400,
+            "Thay doi": "-190.00",
+            "Thay doi %": "-4.3",
+            "Thap_nhat": 4170,
+            "Cao_nhat": 4350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SVI",
+            "Gia dong cua": 55300,
+            "Khoi luong": 1000,
+            "Thay doi": "-1700.00",
+            "Thay doi %": "-3.0",
+            "Thap_nhat": 55300,
+            "Cao_nhat": 57000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SVT",
+            "Gia dong cua": 12950,
+            "Khoi luong": 2000,
+            "Thay doi": "-550.00",
+            "Thay doi %": "-4.1",
+            "Thap_nhat": 12850,
+            "Cao_nhat": 13700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SZC",
+            "Gia dong cua": 36400,
+            "Khoi luong": 1015500,
+            "Thay doi": "250.00",
+            "Thay doi %": "0.7",
+            "Thap_nhat": 35400,
+            "Cao_nhat": 36500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "SZL",
+            "Gia dong cua": 51700,
+            "Khoi luong": 1000,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 51700,
+            "Cao_nhat": 51700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TBC",
+            "Gia dong cua": 34200,
+            "Khoi luong": 3700,
+            "Thay doi": "-550.00",
+            "Thay doi %": "-1.6",
+            "Thap_nhat": 34200,
+            "Cao_nhat": 34350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCB",
+            "Gia dong cua": 32450,
+            "Khoi luong": 5315500,
+            "Thay doi": "650.00",
+            "Thay doi %": "2.0",
+            "Thap_nhat": 31600,
+            "Cao_nhat": 32500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCD",
+            "Gia dong cua": 10500,
+            "Khoi luong": 4222500,
+            "Thay doi": "500.00",
+            "Thay doi %": "5.0",
+            "Thap_nhat": 9900,
+            "Cao_nhat": 10500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCH",
+            "Gia dong cua": 8960,
+            "Khoi luong": 6098500,
+            "Thay doi": "-40.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 8850,
+            "Cao_nhat": 9070,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCL",
+            "Gia dong cua": 38050,
+            "Khoi luong": 86100,
+            "Thay doi": "200.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 37900,
+            "Cao_nhat": 38100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCM",
+            "Gia dong cua": 51200,
+            "Khoi luong": 381800,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 50700,
+            "Cao_nhat": 51400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCO",
+            "Gia dong cua": 8100,
+            "Khoi luong": 252200,
+            "Thay doi": "130.00",
+            "Thay doi %": "1.6",
+            "Thap_nhat": 8000,
+            "Cao_nhat": 8380,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCR",
+            "Gia dong cua": 3500,
+            "Khoi luong": 2500,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 3500,
+            "Cao_nhat": 3550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TCT",
+            "Gia dong cua": 25600,
+            "Khoi luong": 10900,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.4",
+            "Thap_nhat": 25400,
+            "Cao_nhat": 25700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TDC",
+            "Gia dong cua": 13550,
+            "Khoi luong": 1405200,
+            "Thay doi": "150.00",
+            "Thay doi %": "1.1",
+            "Thap_nhat": 12900,
+            "Cao_nhat": 13750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TDG",
+            "Gia dong cua": 5200,
+            "Khoi luong": 641300,
+            "Thay doi": "290.00",
+            "Thay doi %": "5.9",
+            "Thap_nhat": 4950,
+            "Cao_nhat": 5260,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TDH",
+            "Gia dong cua": 5590,
+            "Khoi luong": 2050700,
+            "Thay doi": "-350.00",
+            "Thay doi %": "-6.0",
+            "Thap_nhat": 5450,
+            "Cao_nhat": 6000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TDM",
+            "Gia dong cua": 38300,
+            "Khoi luong": 9900,
+            "Thay doi": "50.00",
+            "Thay doi %": "0.1",
+            "Thap_nhat": 36450,
+            "Cao_nhat": 38800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TDP",
+            "Gia dong cua": 32000,
+            "Khoi luong": 200700,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 30200,
+            "Cao_nhat": 32000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TDW",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TEG",
+            "Gia dong cua": 10550,
+            "Khoi luong": 163200,
+            "Thay doi": "250.00",
+            "Thay doi %": "2.4",
+            "Thap_nhat": 10350,
+            "Cao_nhat": 10650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TGG",
+            "Gia dong cua": 3680,
+            "Khoi luong": 385400,
+            "Thay doi": "-60.00",
+            "Thay doi %": "-1.6",
+            "Thap_nhat": 3640,
+            "Cao_nhat": 3900,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "THG",
+            "Gia dong cua": 48050,
+            "Khoi luong": 36700,
+            "Thay doi": "-450.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 47200,
+            "Cao_nhat": 48450,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "THI",
+            "Gia dong cua": 25400,
+            "Khoi luong": 156900,
+            "Thay doi": "1250.00",
+            "Thay doi %": "5.2",
+            "Thap_nhat": 23000,
+            "Cao_nhat": 25800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TIP",
+            "Gia dong cua": 22300,
+            "Khoi luong": 331900,
+            "Thay doi": "-400.00",
+            "Thay doi %": "-1.8",
+            "Thap_nhat": 22000,
+            "Cao_nhat": 23500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TIX",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TLD",
+            "Gia dong cua": 4860,
+            "Khoi luong": 1760700,
+            "Thay doi": "310.00",
+            "Thay doi %": "6.8",
+            "Thap_nhat": 4630,
+            "Cao_nhat": 4860,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TLG",
+            "Gia dong cua": 56100,
+            "Khoi luong": 59500,
+            "Thay doi": "200.00",
+            "Thay doi %": "0.4",
+            "Thap_nhat": 55400,
+            "Cao_nhat": 56300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TLH",
+            "Gia dong cua": 8880,
+            "Khoi luong": 1241300,
+            "Thay doi": "90.00",
+            "Thay doi %": "1.0",
+            "Thap_nhat": 8760,
+            "Cao_nhat": 8990,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TMP",
+            "Gia dong cua": 55400,
+            "Khoi luong": 2100,
+            "Thay doi": "1600.00",
+            "Thay doi %": "3.0",
+            "Thap_nhat": 54900,
+            "Cao_nhat": 55400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TMS",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TMT",
+            "Gia dong cua": 22000,
+            "Khoi luong": 18300,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 21350,
+            "Cao_nhat": 22100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TN1",
+            "Gia dong cua": 17500,
+            "Khoi luong": 1800,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 17500,
+            "Cao_nhat": 17650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TNA",
+            "Gia dong cua": 6600,
+            "Khoi luong": 139000,
+            "Thay doi": "-40.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 6600,
+            "Cao_nhat": 6800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TNC",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TNH",
+            "Gia dong cua": 26750,
+            "Khoi luong": 328600,
+            "Thay doi": "-300.00",
+            "Thay doi %": "-1.1",
+            "Thap_nhat": 26450,
+            "Cao_nhat": 26750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TNI",
+            "Gia dong cua": 3300,
+            "Khoi luong": 484400,
+            "Thay doi": "-10.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 3200,
+            "Cao_nhat": 3370,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TNT",
+            "Gia dong cua": 5760,
+            "Khoi luong": 2433300,
+            "Thay doi": "190.00",
+            "Thay doi %": "3.4",
+            "Thap_nhat": 5650,
+            "Cao_nhat": 5990,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TPB",
+            "Gia dong cua": 18700,
+            "Khoi luong": 7729200,
+            "Thay doi": "250.00",
+            "Thay doi %": "1.4",
+            "Thap_nhat": 18500,
+            "Cao_nhat": 19000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TPC",
+            "Gia dong cua": 6520,
+            "Khoi luong": 10200,
+            "Thay doi": "-20.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 6520,
+            "Cao_nhat": 6580,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TRA",
+            "Gia dong cua": 91500,
+            "Khoi luong": 4500,
+            "Thay doi": "1600.00",
+            "Thay doi %": "1.8",
+            "Thap_nhat": 90500,
+            "Cao_nhat": 92000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TRC",
+            "Gia dong cua": 29200,
+            "Khoi luong": 1600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 29200,
+            "Cao_nhat": 29500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TSC",
+            "Gia dong cua": 4940,
+            "Khoi luong": 2385600,
+            "Thay doi": "80.00",
+            "Thay doi %": "1.7",
+            "Thap_nhat": 4820,
+            "Cao_nhat": 4960,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TTA",
+            "Gia dong cua": 9490,
+            "Khoi luong": 831500,
+            "Thay doi": "-220.00",
+            "Thay doi %": "-2.3",
+            "Thap_nhat": 9340,
+            "Cao_nhat": 9640,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TTB",
+            "Gia dong cua": 3050,
+            "Khoi luong": 1142100,
+            "Thay doi": "60.00",
+            "Thay doi %": "2.0",
+            "Thap_nhat": 2960,
+            "Cao_nhat": 3080,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TTE",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TTF",
+            "Gia dong cua": 5550,
+            "Khoi luong": 8373500,
+            "Thay doi": "-30.00",
+            "Thay doi %": "-0.5",
+            "Thap_nhat": 5420,
+            "Cao_nhat": 5690,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TV2",
+            "Gia dong cua": 30500,
+            "Khoi luong": 150000,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 30000,
+            "Cao_nhat": 30800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TVB",
+            "Gia dong cua": 5970,
+            "Khoi luong": 1097800,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 5830,
+            "Cao_nhat": 6300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TVS",
+            "Gia dong cua": 31400,
+            "Khoi luong": 66800,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.3",
+            "Thap_nhat": 31000,
+            "Cao_nhat": 32950,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TVT",
+            "Gia dong cua": 25000,
+            "Khoi luong": 12800,
+            "Thay doi": "200.00",
+            "Thay doi %": "0.8",
+            "Thap_nhat": 24950,
+            "Cao_nhat": 25200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "TYA",
+            "Gia dong cua": 11450,
+            "Khoi luong": 11600,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 11300,
+            "Cao_nhat": 11700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "UIC",
+            "Gia dong cua": 32600,
+            "Khoi luong": 800,
+            "Thay doi": "450.00",
+            "Thay doi %": "1.4",
+            "Thap_nhat": 32500,
+            "Cao_nhat": 32600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VAF",
+            "Gia dong cua": 11000,
+            "Khoi luong": 200,
+            "Thay doi": "-750.00",
+            "Thay doi %": "-6.4",
+            "Thap_nhat": 11000,
+            "Cao_nhat": 11000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VCA",
+            "Gia dong cua": 9700,
+            "Khoi luong": 17000,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 9690,
+            "Cao_nhat": 9710,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VCB",
+            "Gia dong cua": 100200,
+            "Khoi luong": 820200,
+            "Thay doi": "500.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 99000,
+            "Cao_nhat": 102000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VCF",
+            "Gia dong cua": 201500,
+            "Khoi luong": 300,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 201500,
+            "Cao_nhat": 201600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VCG",
+            "Gia dong cua": 21500,
+            "Khoi luong": 11067200,
+            "Thay doi": "-50.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 21000,
+            "Cao_nhat": 21700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VCI",
+            "Gia dong cua": 34550,
+            "Khoi luong": 6007900,
+            "Thay doi": "800.00",
+            "Thay doi %": "2.4",
+            "Thap_nhat": 33250,
+            "Cao_nhat": 34800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VDP",
+            "Gia dong cua": 41000,
+            "Khoi luong": 200,
+            "Thay doi": "2500.00",
+            "Thay doi %": "6.5",
+            "Thap_nhat": 41000,
+            "Cao_nhat": 41000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VDS",
+            "Gia dong cua": 12200,
+            "Khoi luong": 471300,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.8",
+            "Thap_nhat": 11950,
+            "Cao_nhat": 12350,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VFG",
+            "Gia dong cua": 36300,
+            "Khoi luong": 1100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 36300,
+            "Cao_nhat": 36300,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VGC",
+            "Gia dong cua": 43700,
+            "Khoi luong": 2472600,
+            "Thay doi": "1000.00",
+            "Thay doi %": "2.3",
+            "Thap_nhat": 42850,
+            "Cao_nhat": 44500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VHC",
+            "Gia dong cua": 60700,
+            "Khoi luong": 644900,
+            "Thay doi": "-500.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 60000,
+            "Cao_nhat": 61500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VHM",
+            "Gia dong cua": 55500,
+            "Khoi luong": 1051100,
+            "Thay doi": "100.00",
+            "Thay doi %": "0.2",
+            "Thap_nhat": 54800,
+            "Cao_nhat": 55800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VIB",
+            "Gia dong cua": 23550,
+            "Khoi luong": 11068900,
+            "Thay doi": "550.00",
+            "Thay doi %": "2.4",
+            "Thap_nhat": 22750,
+            "Cao_nhat": 23600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VIC",
+            "Gia dong cua": 52500,
+            "Khoi luong": 819000,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.2",
+            "Thap_nhat": 52200,
+            "Cao_nhat": 52600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VID",
+            "Gia dong cua": 5700,
+            "Khoi luong": 14200,
+            "Thay doi": "-90.00",
+            "Thay doi %": "-1.6",
+            "Thap_nhat": 5400,
+            "Cao_nhat": 5700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VIP",
+            "Gia dong cua": 10400,
+            "Khoi luong": 723700,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-1.4",
+            "Thap_nhat": 10350,
+            "Cao_nhat": 10650,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VIX",
+            "Gia dong cua": 11150,
+            "Khoi luong": 22491000,
+            "Thay doi": "500.00",
+            "Thay doi %": "4.7",
+            "Thap_nhat": 10700,
+            "Cao_nhat": 11200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VJC",
+            "Gia dong cua": 96200,
+            "Khoi luong": 787000,
+            "Thay doi": "-1200.00",
+            "Thay doi %": "-1.2",
+            "Thap_nhat": 96000,
+            "Cao_nhat": 97400,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VMD",
+            "Gia dong cua": 25200,
+            "Khoi luong": 15900,
+            "Thay doi": "1200.00",
+            "Thay doi %": "5.0",
+            "Thap_nhat": 24200,
+            "Cao_nhat": 25200,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VND",
+            "Gia dong cua": 18900,
+            "Khoi luong": 43027600,
+            "Thay doi": "850.00",
+            "Thay doi %": "4.7",
+            "Thap_nhat": 18100,
+            "Cao_nhat": 19000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VNE",
+            "Gia dong cua": 12300,
+            "Khoi luong": 234700,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 12200,
+            "Cao_nhat": 12500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VNG",
+            "Gia dong cua": 9000,
+            "Khoi luong": 14500,
+            "Thay doi": "-80.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 8980,
+            "Cao_nhat": 9120,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VNL",
+            "Gia dong cua": 21000,
+            "Khoi luong": 12200,
+            "Thay doi": "-250.00",
+            "Thay doi %": "-1.2",
+            "Thap_nhat": 20700,
+            "Cao_nhat": 21250,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VNM",
+            "Gia dong cua": 65800,
+            "Khoi luong": 2080200,
+            "Thay doi": "300.00",
+            "Thay doi %": "0.5",
+            "Thap_nhat": 65500,
+            "Cao_nhat": 66500,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VNS",
+            "Gia dong cua": 17550,
+            "Khoi luong": 1800,
+            "Thay doi": "-150.00",
+            "Thay doi %": "-0.8",
+            "Thap_nhat": 17550,
+            "Cao_nhat": 18000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VOS",
+            "Gia dong cua": 12500,
+            "Khoi luong": 2861400,
+            "Thay doi": "150.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 12200,
+            "Cao_nhat": 12550,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VPB",
+            "Gia dong cua": 19450,
+            "Khoi luong": 9596000,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 19300,
+            "Cao_nhat": 19600,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VPD",
+            "Gia dong cua": 26000,
+            "Khoi luong": 10100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 26000,
+            "Cao_nhat": 26000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VPG",
+            "Gia dong cua": 18900,
+            "Khoi luong": 2710800,
+            "Thay doi": "350.00",
+            "Thay doi %": "1.9",
+            "Thap_nhat": 18400,
+            "Cao_nhat": 19050,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VPH",
+            "Gia dong cua": 6380,
+            "Khoi luong": 355900,
+            "Thay doi": "-290.00",
+            "Thay doi %": "-4.4",
+            "Thap_nhat": 6310,
+            "Cao_nhat": 6700,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VPI",
+            "Gia dong cua": 54800,
+            "Khoi luong": 677400,
+            "Thay doi": "-500.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 54400,
+            "Cao_nhat": 55100,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VPS",
+            "Gia dong cua": 9330,
+            "Khoi luong": 400,
+            "Thay doi": "-60.00",
+            "Thay doi %": "-0.6",
+            "Thap_nhat": 9110,
+            "Cao_nhat": 9330,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VRC",
+            "Gia dong cua": 10450,
+            "Khoi luong": 46300,
+            "Thay doi": "-100.00",
+            "Thay doi %": "-0.9",
+            "Thap_nhat": 10400,
+            "Cao_nhat": 10750,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VRE",
+            "Gia dong cua": 26800,
+            "Khoi luong": 2895800,
+            "Thay doi": "-200.00",
+            "Thay doi %": "-0.7",
+            "Thap_nhat": 26600,
+            "Cao_nhat": 27050,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VSC",
+            "Gia dong cua": 28750,
+            "Khoi luong": 211500,
+            "Thay doi": "350.00",
+            "Thay doi %": "1.2",
+            "Thap_nhat": 28500,
+            "Cao_nhat": 29000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VSH",
+            "Gia dong cua": 39800,
+            "Khoi luong": 28600,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 39400,
+            "Cao_nhat": 39800,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VSI",
+            "Gia dong cua": 17000,
+            "Khoi luong": 15100,
+            "Thay doi": "0.00",
+            "Thay doi %": "0.0",
+            "Thap_nhat": 17000,
+            "Cao_nhat": 17000,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VTB",
+            "Gia dong cua": 0,
+            "Khoi luong": null,
+            "Thay doi": "0",
+            "Thay doi %": "0",
+            "Thap_nhat": 0,
+            "Cao_nhat": 0,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "VTO",
+            "Gia dong cua": 8740,
+            "Khoi luong": 774600,
+            "Thay doi": "-110.00",
+            "Thay doi %": "-1.2",
+            "Thap_nhat": 8650,
+            "Cao_nhat": 8830,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "YBM",
+            "Gia dong cua": 7500,
+            "Khoi luong": 1700,
+            "Thay doi": "-90.00",
+            "Thay doi %": "-1.2",
+            "Thap_nhat": 7500,
+            "Cao_nhat": 7680,
+            "San giao dich": "hose"
+        },
+        {
+            "Ma CP": "YEG",
+            "Gia dong cua": 13700,
+            "Khoi luong": 155900,
+            "Thay doi": "200.00",
+            "Thay doi %": "1.5",
+            "Thap_nhat": 13350,
+            "Cao_nhat": 14000,
+            "San giao dich": "hose"
+        }
+    ]
+}
